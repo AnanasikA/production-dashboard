@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/AnanasikA/production-dashboard.git/static/css/main.ef1252f2.css",
+    "main.js": "/AnanasikA/production-dashboard.git/static/js/main.41a46e4a.js",
+    "static/js/239.14d08257.chunk.js": "/AnanasikA/production-dashboard.git/static/js/239.14d08257.chunk.js",
+    "static/js/213.674c99c5.chunk.js": "/AnanasikA/production-dashboard.git/static/js/213.674c99c5.chunk.js",
+    "static/js/732.c155ef9e.chunk.js": "/AnanasikA/production-dashboard.git/static/js/732.c155ef9e.chunk.js",
+    "index.html": "/AnanasikA/production-dashboard.git/index.html",
+    "main.ef1252f2.css.map": "/AnanasikA/production-dashboard.git/static/css/main.ef1252f2.css.map",
+    "main.41a46e4a.js.map": "/AnanasikA/production-dashboard.git/static/js/main.41a46e4a.js.map",
+    "239.14d08257.chunk.js.map": "/AnanasikA/production-dashboard.git/static/js/239.14d08257.chunk.js.map",
+    "213.674c99c5.chunk.js.map": "/AnanasikA/production-dashboard.git/static/js/213.674c99c5.chunk.js.map",
+    "732.c155ef9e.chunk.js.map": "/AnanasikA/production-dashboard.git/static/js/732.c155ef9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef1252f2.css",
+    "static/js/main.41a46e4a.js"
+  ]
+}
